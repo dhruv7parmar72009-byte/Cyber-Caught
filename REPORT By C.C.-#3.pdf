@@ -1,0 +1,43 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 1285 >> stream
+BT
+/F1 12 Tf
+1 0 0 1 48 800.00 Tm (CYBER CAUGHT) Tj
+1 0 0 1 48 786.00 Tm (AUDIO FORENSICS REPORT) Tj
+1 0 0 1 48 756.00 Tm (REPORT #CC-100483) Tj
+1 0 0 1 48 742.00 Tm (Verdict: MEDIUM RISK) Tj
+1 0 0 1 48 712.00 Tm (Deepfake Probability: 39%) Tj
+1 0 0 1 48 698.00 Tm (Scam Probability: 59%) Tj
+1 0 0 1 48 684.00 Tm (Composite Risk: 48) Tj
+1 0 0 1 48 654.00 Tm (Avg Pitch \(F0\): 159.2 Hz) Tj
+1 0 0 1 48 640.00 Tm (Pitch Variance: 98.02) Tj
+1 0 0 1 48 626.00 Tm (Spectral Centroid: 1199 Hz) Tj
+1 0 0 1 48 612.00 Tm (Noise Floor: -45.0 dB) Tj
+1 0 0 1 48 598.00 Tm (Harmonic-to-Noise Ratio: 58.7%) Tj
+1 0 0 1 48 584.00 Tm (Duration: 66.58 s) Tj
+1 0 0 1 48 570.00 Tm (Scanned By: DHRUV PARMAR \(dhruv7parmar72009@gmail.com\)) Tj
+1 0 0 1 48 556.00 Tm (Generated: 6/24/2026, 3:27:15 PM) Tj
+1 0 0 1 48 526.00 Tm (TRANSCRIPT) Tj
+1 0 0 1 48 512.00 Tm (This is an emergency, I am in trouble and I need you to transfer money) Tj
+1 0 0 1 48 498.00 Tm (urgently to this account, please do not tell anyone and act fast before) Tj
+1 0 0 1 48 484.00 Tm (it is too late.) Tj
+1 0 0 1 48 454.00 Tm (Generated client-side by Cyber Caught for academic / internship demonstration purposes.) Tj
+1 0 0 1 48 440.00 Tm (Detection scores are derived from real extracted audio features via a heuristic model.) Tj
+ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1654
+%%EOF
